@@ -1,0 +1,18 @@
+.page{
+	width: 960px;
+	margin: 0 auto;
+}
+button{
+	background: red;
+}
+button.pinbtn.off{
+	background: #acacac;
+}
+button.pinbtn.red.on{
+	background: red;	
+}
+button.pinbtn.green.on{
+	background: green;	
+}
+
+
